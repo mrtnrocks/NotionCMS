@@ -1,2 +1,2 @@
 # NotionCMS
-Use Notion.so as a HeadlessCMS 🚧WIP
+Use Notion.so as a Headless CMS 🚧WIP
